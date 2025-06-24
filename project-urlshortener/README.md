@@ -1,3 +1,3 @@
 # URL Shortener Microservice
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+A backend microservice that creates shortened versions of URLs using numeric codes. Built as part of freeCodeCamp's Backend Development Certification.
