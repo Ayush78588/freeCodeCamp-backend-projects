@@ -1,5 +1,5 @@
 
-Exercise Tracker Microservice
+# Exercise Tracker Microservice
 A backend microservice that allows users to track exercises and view logs. Built as part of the freeCodeCamp Backend Development Certification.
 
 Features
