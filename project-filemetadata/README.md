@@ -1,3 +1,3 @@
-# File Metadata Microservice
-
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+File Metadata Microservice:
+This is a backend microservice that receives a file upload and returns its metadata such as name, type, and size.
+Part of the freeCodeCamp Backend Certification Projects.
